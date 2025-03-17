@@ -55,7 +55,7 @@ The **Certification App** is a React-based web application that allows users to 
 ## Project Structure
 
 ```
-certification-app/
+gozeal-certification-app/
 │-- src/
 │   ├── components/   # Reusable components
 │   ├── pages/        # CertificationForm, CertificationList
