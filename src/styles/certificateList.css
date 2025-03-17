@@ -1,0 +1,29 @@
+
+.listcover{
+    background-color : #f6f7f9;
+}
+
+.certicaticate-details{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.certificate-slno{
+    background-color: #615cf4;
+    color: white;
+    padding: 0px 8px;
+    border-radius: 50%;
+    font-weight: 700;
+}
+.certificate-issuer{
+    font-weight: 600;
+    color: grey;
+}
+.view-btn{
+    color: #615cf4 !important;
+}
+
+.back-btn{
+    cursor: pointer;
+}
